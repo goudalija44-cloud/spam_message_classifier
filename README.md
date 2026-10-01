@@ -75,7 +75,7 @@ The cleaned messages were converted into numerical features using **TF-IDF (Term
 
 The vectorizer uses:
 
-```python
+python
 TfidfVectorizer(
     max_features=5000,
     ngram_range=(1, 2),
@@ -187,7 +187,7 @@ The Streamlit application allows users to enter an SMS or email message and prov
 
 ## 📁 Project Structure
 
-```text
+text
 spam_message_classifier/
 │
 ├── data/
