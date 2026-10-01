@@ -162,11 +162,11 @@ The Streamlit application allows users to enter an SMS or email message and prov
 
 ### 🚨 Spam Prediction
 
-![Spam Prediction](screenshots/spam_prediction.png)
+![Spam Prediction](screenshots/spam_prediction_output.png)
 
 ### ✅ Normal Message Prediction
 
-![Normal Message Prediction](screenshots/normal_prediction.png)
+![Normal Message Prediction](screenshots/normal_prediction_output.png)
 
 ---
 
@@ -186,7 +186,7 @@ The Streamlit application allows users to enter an SMS or email message and prov
 ---
 
 ## 📁 Project Structure
-
+```
 text
 spam_message_classifier/
 │
@@ -211,7 +211,7 @@ spam_message_classifier/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
@@ -220,7 +220,7 @@ spam_message_classifier/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/goudalija44-cloud/spam_message_classifier.git
 ```
 
 Move into the project folder:
